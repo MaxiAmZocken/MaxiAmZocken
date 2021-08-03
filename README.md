@@ -31,3 +31,4 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 [equipment]: https://maxiamzocken.github.io/tech
 [discord]: https://discord.gg/eumk4MC
 [steam]: https://steamcommunity.com/id/Void_Maxiii/
+[minecraft]: https://laby.net/@Maxi_am_zocken
