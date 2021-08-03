@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-I'm a student im Germany, I'm playing many Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
+I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
 ### Social Media 📮 :
 
