@@ -1,7 +1,13 @@
 ### Hi everyone 👋
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxiAmZocken&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
-</p>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [comment]: <> (Credit goes to https://github.com/strencher/)
+
+[website]: https://maxiamzocken.github.io
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
