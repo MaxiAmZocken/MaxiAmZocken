@@ -16,6 +16,7 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 [Equipment] 💻 <br/>
 [Discord] 🎙 <br/>
 [Steam] 🎮 <br/>
+[Minecraft] 🌳 <br/>
 
 ### Github Stats 🧮 :
 
