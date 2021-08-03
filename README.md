@@ -14,8 +14,8 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 ### Links 🌍 :
 
 [Equipment] 💻 <br/>
-[Discord] 🎙<br/>
-<br/>
+[Discord] 🎙 <br/>
+[Steam] 🎮 <br/>
 
 ### Github Stats 🧮 :
 
@@ -29,3 +29,4 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 [instagram]: https://instagram.com/Maxi_am_zocken
 [equipment]: https://maxiamzocken.github.io/tech
 [discord]: https://discord.gg/eumk4MC
+[steam]: https://steamcommunity.com/id/Void_Maxiii/
