@@ -11,17 +11,26 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 [<img align="left" alt="MaxiAmZocken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
-### Links 🌍 :
+🌐 Links
 
 [Equipment] 💻 <br/>
 [Discord] 🎙 <br/>
 [Steam] 🎮 <br/>
 [Minecraft] 🌳 <br/>
 
-### Github Stats 🧮 :
+<details>
+     <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxiAmZocken&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
+![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&count_private=true&show_icons=true)
+
+</details>
+
+<details>
+    <summary> <samp>📝 Programming Languages</samp></summary>
+<br/>
+
+![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&langs_count=10&layout=compact)
 
 [website]: https://maxiamzocken.github.io
 [twitter]: https://twitter.com/Maxi_am_zocken
