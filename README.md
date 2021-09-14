@@ -2,7 +2,7 @@
 
 I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
-### Social Media 📮 :
+### Social Media 📮
 
 [<img align="left" alt="MaxiAmZocken | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MaxiAmZocken | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -11,7 +11,7 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 [<img align="left" alt="MaxiAmZocken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
-🌐 Links
+### Links 🌐
 
 [Equipment] 💻 <br/>
 [Discord] 🎙 <br/>
