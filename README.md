@@ -22,16 +22,20 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
      <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&count_private=true&show_icons=true)
+![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiamzocken&count_private=true&show_icons=true)
 
+<!-- Credit goes to https://github.com/shivammathur -->  
+     
 </details>
 
 <details>
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&langs_count=10&layout=compact)
+![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiamzocken&langs_count=10&layout=compact)
 
+<!-- Credit goes to https://github.com/shivammathur -->  
+    
 [website]: https://maxiamzocken.github.io
 [twitter]: https://twitter.com/Maxi_am_zocken
 [youtube]: https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ
