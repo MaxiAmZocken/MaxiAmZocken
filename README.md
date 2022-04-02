@@ -4,11 +4,11 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
 
 ### Social Media 📮
 
-[<img align="left" alt="MaxiAmZocken | Website" width="35px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-website-96.png" />][website]
-[<img align="left" alt="MaxiAmZocken | Instagram" width="35px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-instagram-96.png" />][instagram]
-[<img align="left" alt="MaxiAmZocken | Reddit" width="35px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-reddit-96.png" />][reddit]
-[<img align="left" alt="MaxiAmZocken | YouTube" width="35px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-youtube-96.png" />][youtube]
-[<img align="left" alt="MaxiAmZocken | Twitter" width="35px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-twitter-96.png" />][twitter]
+[<img align="left" alt="MaxiAmZocken | Website" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-website-96.png" />][website]
+[<img align="left" alt="MaxiAmZocken | Instagram" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-instagram-96.png" />][instagram]
+[<img align="left" alt="MaxiAmZocken | Reddit" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-reddit-96.png" />][reddit]
+[<img align="left" alt="MaxiAmZocken | YouTube" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-youtube-96.png" />][youtube]
+[<img align="left" alt="MaxiAmZocken | Twitter" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-twitter-96.png" />][twitter]
 <br/>
 
 ### Links 🌐
