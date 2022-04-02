@@ -14,7 +14,6 @@ I'm a student im Germany , I'm playing Videogames and I'm [mountainbiking] prett
 [<img align="left" alt="Komoot"    width="20px" src="https://github.com/Blackinso/icons/blob/main/komoot-100.png" />][komoot] 
 <br/>
 <br/>
-<br/>
 
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
