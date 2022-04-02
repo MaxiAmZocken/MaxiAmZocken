@@ -11,7 +11,7 @@ I'm a student im Germany , I'm playing Videogames and I'm [mountainbiking] prett
 [<img align="left" alt="Twitter"   width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-twitter-96.png" />][twitter]
 [<img align="left" alt="Steam"     width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-steam-96.png"/>][Steam]
 [<img align="left" alt="Equipment" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-mouse-96.png"/>][Equipment]
-[<img align="left" alt="Komoot"    width="20px" src="https://github.com/Blackinso/icons/blob/main/komoot-100.png" />][komoot] 
+[<img align="left" alt="Komoot"    width="28px" src="https://github.com/MaxiAmZocken/Resource/blob/main/komoot%20100x.png" />][komoot] 
 <br/>
 <br/>
 
