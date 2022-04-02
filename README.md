@@ -1,6 +1,6 @@
 ### Hey everyone 👋
 
-I'm a student im Germany , I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
+I'm a student im Germany , I'm playing Videogames and I'm [mountainbiking] pretty much every day, I started learning to code in [python] and [autohotkey] a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
 #### Social Media :
 
@@ -20,8 +20,9 @@ I'm a student im Germany , I'm playing Videogames and I'm mountainbiking pretty 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=maxiamzocken&count_private=true&show_icons=true)
 
-<!-- Credit goes to https://github.com/shivammathur -->  
-    
+[python]: https://www.python.org/
+[autohotkey]: https://www.autohotkey.com/
+[mountainbiking]: https://www.giant-bicycles.com/de/trance-x-3
 [website]: https://maxiamzocken.github.io
 [twitter]: https://twitter.com/Maxi_am_zocken
 [youtube]: https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ
