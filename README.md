@@ -22,7 +22,7 @@ I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty m
      <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiamzocken&count_private=true&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=maxiamzocken&count_private=true&show_icons=true)
 
 <!-- Credit goes to https://github.com/shivammathur -->  
     
