@@ -1,22 +1,18 @@
-### Hi everyone 👋
+### Hey everyone 👋
 
-I'm a student im Germany, I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
+I'm a student im Germany , I'm playing Videogames and I'm mountainbiking pretty much every day, I started learning to code in python and autohotkey a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
-### Social Media 📮
+#### Social Media :
 
-[<img align="left" alt="MaxiAmZocken | Website" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-website-96.png" />][website]
-[<img align="left" alt="MaxiAmZocken | Instagram" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-instagram-96.png" />][instagram]
-[<img align="left" alt="MaxiAmZocken | Reddit" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-reddit-96.png" />][reddit]
-[<img align="left" alt="MaxiAmZocken | YouTube" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-youtube-96.png" />][youtube]
-[<img align="left" alt="MaxiAmZocken | Twitter" width="28px" src="https://github.com/MaxiAmZocken/Recources/blob/main/icons8-twitter-96.png" />][twitter]
+[<img align="left" alt="Website" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-website-96.png" />][website]
+[<img align="left" alt="Instagram" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-instagram-96.png" />][instagram]
+[<img align="left" alt="Reddit" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-reddit-96.png" />][reddit]
+[<img align="left" alt="YouTube" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-youtube-96.png" />][youtube]
+[<img align="left" alt="Twitter" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-twitter-96.png" />][twitter]
+[<img align="left" alt="Steam" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-steam-96.png"/>][Steam]
+[<img align="left" alt="Equipment" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-mouse-96.png"/>][Equipment]
 <br/>
-
-### Links 🌐
-
-[Equipment] 💻 <br/>
-[Discord] 🎙 <br/>
-[Steam] 🎮 <br/>
-[Minecraft] 🌳 <br/>
+<br/>
 
 <details>
      <summary> <samp>📈 GitHub stats</samp></summary>
