@@ -2,7 +2,7 @@
 
 I'm a student im Germany , I'm playing Videogames and I'm [mountainbiking] pretty much every day, I started learning to code in [python] and [autohotkey] a while ago and trying to get more and more knowledge in both and trying to learn more languages :)
 
-I recently created a website you can see it here [My Website](maxiamzocken.github.io)
+I recently created a website you can see it here [Website]
 #### Social Media :
 
 [<img align="left" alt="Website"   width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-website-96.png" />][website]
