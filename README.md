@@ -13,7 +13,6 @@ I recently created a website you can see it here [Website]
 [<img align="left" alt="Twitter"   width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-twitter-96.png" />][twitter]
 [<img align="left" alt="Steam"     width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-steam-96.png"/>][Steam]
 [<img align="left" alt="Equipment" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-mouse-96.png"/>][Equipment]
-[<img align="left" alt="Komoot"    width="28px" src="https://github.com/MaxiAmZocken/Resource/blob/main/komoot%20100x.png" />][komoot] 
 <br/>
 <br/>
 
@@ -30,7 +29,7 @@ I recently created a website you can see it here [Website]
 [twitter]: https://twitter.com/Maxi_am_zocken
 [youtube]: https://www.youtube.com/channel/UCKXu4_UtUGvSTRf_FZBMjpQ
 [reddit]: https://reddit.com/user/Maxi_am_zocken
-[instagram]: https://instagram.com/Maxi_am_zocken
+[instagram]: https://instagram.com/void_maxiii
 [equipment]: https://maxiamzocken.github.io/tech
 [discord]: https://discord.gg/eumk4MC
 [steam]: https://steamcommunity.com/id/Void_Maxiii/
