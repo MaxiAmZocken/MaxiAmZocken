@@ -10,7 +10,6 @@ I recently created a website you can see it here [Website]
 [<img align="left" alt="Instagram" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-instagram-96.png" />][instagram]
 [<img align="left" alt="Reddit"    width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-reddit-96.png" />][reddit]
 [<img align="left" alt="YouTube"   width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-youtube-96.png" />][youtube]
-[<img align="left" alt="Twitter"   width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-twitter-96.png" />][twitter]
 [<img align="left" alt="Steam"     width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-steam-96.png"/>][Steam]
 [<img align="left" alt="Equipment" width="28px" src="https://github.com/MaxiAmZocken/resource/blob/main/icons8-mouse-96.png"/>][Equipment]
 <br/>
